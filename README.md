@@ -1,3 +1,10 @@
-# future.github.io
 
-This is where i'll start putting future songs whilst still using this alias.
+
+<html>
+
+<head>
+<title> discord is: xoshtra_ </title>
+
+<body>
+
+	<li> DISCORD IS: XOSHTRA_ </li> <font size=45>
