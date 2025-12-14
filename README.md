@@ -1,10 +1,4 @@
+# Not proud of the things i have done. Will post songs here if i ever continue to use this alias.
 
 
-<html>
-
-<head>
-<title> discord is: xoshtra_ </title>
-
-<body>
-
-	<li> DISCORD IS: XOSHTRA_ </li> <font size=45>
+<p style="text-align:center"> Im sorry. </p>
