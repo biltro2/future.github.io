@@ -1,5 +1,3 @@
 # future.github.io
 
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+This is where i'll start putting future songs on whilst still using this alias.
